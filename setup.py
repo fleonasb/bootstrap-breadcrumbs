@@ -13,7 +13,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='django_bootstrap_breadcrumbs',
-    version='0.9.2',
+    version='0.10.0',
     url='http://prymitive.github.com/bootstrap-breadcrumbs',
     license='MIT',
     description='Django breadcrumbs for Bootstrap 2, 3 or 4',
