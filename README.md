@@ -1,3 +1,6 @@
+The original repository (https://github.com/marcanuy/django-dynamic-breadcrumbs) was archived without applying pull requests to add compatibility for Django 4.
+
+
 django-bootstrap-breadcrumbs
 ============================
 
