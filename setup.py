@@ -1,8 +1,8 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 """
-    :copyright: Copyright 2013 by Łukasz Mierzwa
-    :contact: l.mierzwa@gmail.com
+    :copyright: Copyright 2022 The American School of Barcelona
+    :contact: fleon@asbarcelona.com
 """
 
 
@@ -12,15 +12,15 @@ from setuptools import setup, find_packages
 
 
 setup(
-    name='django_bootstrap_breadcrumbs',
+    name='django4_bootstrap_breadcrumbs',
     version='0.10.0',
-    url='http://prymitive.github.com/bootstrap-breadcrumbs',
+    url='https://github.com/fleonasb/django4-bootstrap-breadcrumbs',
     license='MIT',
     description='Django breadcrumbs for Bootstrap 2, 3 or 4',
     long_description='Django template tags used to generate breadcrumbs html '
                      'using bootstrap css classes or custom template',
-    author='Łukasz Mierzwa',
-    author_email='l.mierzwa@gmail.com',
+    author='Fidel Leon',
+    author_email='fleon@asbarcelona.com',
     packages=find_packages(exclude=['tests']),
     install_requires=[
         'six',
